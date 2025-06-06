@@ -70,5 +70,5 @@ Sample generated captions:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thisakya-Anudini/Caption-Generator.git
+   git clone https://github.com/DhanukaNaveen/Image-Caption-Generator.git
    cd Caption-Generator
